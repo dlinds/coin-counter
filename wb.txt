@@ -1,0 +1,16 @@
+// 4   //output = 4
+// 3   //output = 4+3
+// 2   //output = 7+2
+// 1   //output = 9+1     10! = 10*9*8
+return output = 10
+
+function factorial (num) {             //5
+  let output = 0;                      //output = 15
+  for (let x = 0; x < num; x++) {      x = 0
+    output += x;
+  }
+  return output;
+}
+
+
+//
